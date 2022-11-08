@@ -1,0 +1,16 @@
+#TODO 
+Moise :
+	LCD Display :
+		- void initLCD();
+		- void printLCDStr(char*, byte);
+
+Kenneth : 
+
+	SegDisplay :
+
+		- void initDisplay(void);
+		- void setCharDisplay(char, byte);
+		- void segDisplay(void);
+		- void clearDisplay();
+
+
